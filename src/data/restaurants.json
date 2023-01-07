@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.express24.uz/i/701/701/17c987e20d7.jpg",
+    "name": "BS cafe",
+    "tags": "Европейская",
+    "rating": 4.5,
+    "deliveryPrice": "13 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/17c987cdde3.jpg"
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.express24.uz/i/701/701/17eaf72325c.jpg",
+    "name": "Navvat",
+    "tags": "Азиатская · Европейская",
+    "rating": 4.5,
+    "deliveryPrice": "13 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/524/524e8c0ad54d5fe23a46324cdb1dbf3e.png"
+  },
+  {
+    "id": 3,
+    "img": "https://cdn.express24.uz/i/701/701/17cbbaed7e4.jpg",
+    "name": "Florya",
+    "tags": "Fast Food · Европейская · Пиццерия · Барбекю",
+    "rating": 4.6,
+    "deliveryPrice": "13 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/scZzv_97hPjZ50jwgpVNL.jpg"
+  },
+  {
+    "id": 4,
+    "img": "https://cdn.express24.uz/i/701/701/zqVr7Jkrn0jDpygeH9MgV.jpg",
+    "name": "Pesto",
+    "tags": "Европейская · Пиццерия · Барбекю · Uzcard",
+    "rating": 4.3,
+    "deliveryPrice": "13 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/eCJF8Ox-QB-Wdo5Fdwnv7.jpg"
+  },
+  {
+    "id": 5,
+    "img": "https://cdn.express24.uz/i/701/701/ILVx4N3JheV8rcDp9Q2KT.jpg",
+    "name": "Дустлар",
+    "tags": "Национальная · Новинки",
+    "rating": 4.6,
+    "deliveryPrice": "13 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/jhtRbtXZiAZof7a7ilLmX.jpg"
+  },
+  {
+    "id": 6,
+    "img": "https://cdn.express24.uz/i/701/701/17edf70ab45.jpg",
+    "name": "Lazzat City Cafe",
+    "tags": "Европейская · Uzcard",
+    "rating": 4.6,
+    "deliveryPrice": "13 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/17ea06f5d9a.jpg"
+  },
+  {
+    "id": 7,
+    "img": "https://cdn.express24.uz/i/701/701/YbXyS0aSdKXZwm0tUmYQF.jpg",
+    "name": "Otto",
+    "tags": "Новинки · Турецкая",
+    "rating": 4.8,
+    "deliveryPrice": "13 600",
+    "brandImg": "https://cdn.express24.uz/i/301/301/1sO-FForSO_6Nga9X7-Kd.jpg"
+  },
+  {
+    "id": 8,
+    "img": "https://cdn.express24.uz/i/701/701/17a9e81d150.jpg",
+    "name": "Bon!",
+    "tags": "Кофейня · Европейская · Кондитерская · Моро",
+    "rating": 4.7,
+    "deliveryPrice": "13 800",
+    "brandImg": "https://cdn.express24.uz/i/301/301/17a9e813181.jpg"
+  },
+  {
+    "id": 9,
+    "img": "https://cdn.express24.uz/i/701/701/upload/iblock/d21/d2107a78a4ea6eea3061b9de820b358f.jpg",
+    "name": "Rukkola",
+    "tags": "Европейская",
+    "rating": 4.6,
+    "deliveryPrice": "14 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/d00/d008945fe6fa40fe56cfcefe80d1e3c0.jpg"
+  },
+  {
+    "id": 10,
+    "img": "https://cdn.express24.uz/i/701/701/179180ffbf8.jpg",
+    "name": "Apexpizza",
+    "tags": "Пиццерия",
+    "rating": 4.6,
+    "deliveryPrice": "14 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/2b3/2b39237baee729cb7c62b68d6fe38a2e.png"
+  },
+  {
+    "id": 11,
+    "img": "https://cdn.express24.uz/i/701/701/TmHMYnpPkYAFKUhZmrvEV.jpg",
+    "name": "KFC",
+    "tags": "Fast Food · Популярные",
+    "rating": 4.6,
+    "deliveryPrice": "14 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/178d4a79a2d.jpg"
+  },
+  {
+    "id": 12,
+    "img": "https://cdn.express24.uz/i/701/701/17c02206bcc.jpg",
+    "name": "Bibigon",
+    "tags": "Fast Food · Европейская · Uzcard",
+    "rating": 4.7,
+    "deliveryPrice": "14 400",
+    "brandImg": "https://cdn.express24.uz/i/301/301/ZWpXpkR6aXIHIxr-GJuur.jpg"
+  },
+  {
+    "id": 13,
+    "img": "https://cdn.express24.uz/i/701/701/ykr1lvLRWpYH9zz2M2qMN.jpg",
+    "name": "B&B",
+    "tags": "Европейская · Кондитерская · Популярные · Коф",
+    "rating": 4.7,
+    "deliveryPrice": "14 600",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/54d/54d16f73c7e0311bfdf429b2472fbb23.jpg"
+  },
+  {
+    "id": 14,
+    "img": "https://cdn.express24.uz/i/701/701/Ox0qu2triyOaJUsBeVD2d.jpg",
+    "name": "B&Алайский базар",
+    "tags": "Продукты · Базары · Uzcard",
+    "rating": 4.7,
+    "deliveryPrice": "14 800",
+    "brandImg": "https://cdn.express24.uz/i/301/301/Z0gQIVGw_PRhRadNWUspZ.jpg"
+  },
+  {
+    "id": 15,
+    "img": "https://cdn.express24.uz/i/701/701/upload/iblock/648/64831bc46e08214c5eba037998439c02.png",
+    "name": "Burger Embassy",
+    "tags": "Fast Food · Uzcard",
+    "rating": 4.7,
+    "deliveryPrice": "14 800",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/a4f/a4f613f3f746313d0e89ef569d5a3787.jpg"
+  },
+  {
+    "id": 16,
+    "img": "https://cdn.express24.uz/i/701/701/upload/iblock/620/620670ea743c7641d08f9942e5c15004.jpg",
+    "name": "Tin's Hot Dogs",
+    "tags": "Fast Food · Uzcard",
+    "rating": 4.6,
+    "deliveryPrice": "15 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/402/4024015d441c8361b3e7ae578d91fc54.jpg"
+  },
+  {
+    "id": 17,
+    "img": "https://cdn.express24.uz/i/701/701/thkZaXYNGjqCUVmSWazwU.jpg",
+    "name": "Imarat Coffee",
+    "tags": "Европейская",
+    "rating": 4.7,
+    "deliveryPrice": "15 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/yMLcGm_ya8nwxQsHEuBld.jpg"
+  },
+  {
+    "id": 18,
+    "img": "https://cdn.express24.uz/i/701/701/upload/iblock/867/867f2e1538ba9a77d8c5e58dc55bf5c0.jpg",
+    "name": "Grand Somsa Markazi",
+    "tags": "Национальная · Популярные",
+    "rating": 4.6,
+    "deliveryPrice": "15 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/92b/92b67c535ccfcf067c0d1ef91a7763d2.jpg"
+  },
+  {
+    "id": 19,
+    "img": "https://cdn.express24.uz/i/701/701/upload/iblock/5d8/5d8ca2bd806c2c1db38ec2c81a4b6571.jpg",
+    "name": "Coffee Milk",
+    "tags": "Кофейня · Европейская · Кондитерская · ПП",
+    "rating": 4.6,
+    "deliveryPrice": "15 200",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/495/4954a05adb54778931243bbb23359da9.png"
+  },
+  {
+    "id": 20,
+    "img": "https://cdn.express24.uz/i/701/701/_fV2sNGv2zB0c7t2m3_2_.jpg",
+    "name": "Fresh Ca.Fe",
+    "tags": "Европейская",
+    "rating": 4.8,
+    "deliveryPrice": "15 200",
+    "brandImg": "https://cdn.express24.uz/i/301/301/upload/iblock/edd/edd16bacdfb65cadfaddbaf95b522114.jpeg"
+  },
+  {
+    "id": 21,
+    "img": "https://cdn.express24.uz/i/701/701/9y2_3I6xvRajHWrTq_AMn.jpg",
+    "name": "Osiyo Buxoro",
+    "tags": "Национальная",
+    "rating": 4.5,
+    "deliveryPrice": "14 000",
+    "brandImg": "https://cdn.express24.uz/i/301/301/NIN_hv3VY5nH4wThVrjGO.jpg"
+  }
+]
