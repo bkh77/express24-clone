@@ -16,7 +16,12 @@ export default function SignUpModal() {
         <h3 className="text-2xl font-bold">Введите номер телефона</h3>
         <p className="text-gray-400">и получите код подтверждения</p>
 
-        <form>
+        <form
+          onSubmit={(e) => {
+            e.preventDefault()
+            closeModal()
+          }}
+        >
           <div className="my-6 relative">
             <label className="text-gray-400 text-xs ml-2" htmlFor="phone">
               Номер телефон
@@ -46,12 +51,12 @@ export default function SignUpModal() {
             </span>
           </div>
 
-          <Button
+          <button
             disabled={!phone}
-            className="w-full mt-4 font-bold bg-yellow-400 hover:bg-yellow-500 disabled:bg-gray-200 disabled:text-gray-500"
+            className={`w-full mt-4 py-3 rounded-xl disabled:bg-gray-200 disabled:text-gray-400 font-bold bg-yellow-400 hover:bg-yellow-500 transition-all`}
           >
             Получит код
-          </Button>
+          </button>
         </form>
         <div
           onClick={closeModal}
